@@ -96,7 +96,7 @@
    */
     --color-1: hsla(12, 75%, 45%, 1);
     --color-2: hsla(96, 10%, 19%, 1);
-    --color-3: hsla(0, 0%, 10%, 1);
+    --color-3: rgb(0, 0, 0);
 
   /* theme color variations
    */
